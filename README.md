@@ -39,3 +39,25 @@ white-space: nowrap;
 clip-path: inset(100%);
 clip: rect(0 0 0 0);
 overflow: hidden;
+
+<!--background-image  -->
+
+min-height: 300px;
+padding: 40px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+background-color: #2a2a2a;
+background-image: linear-gradient(
+to bottom,
+rgba(255, 0, 0, 0.3),
+rgba(255, 0, 0, 0.3)
+),
+url(https://cdn.pixabay.com/photo/2020/07/06/01/33/forest-5375005_1280.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+color: #fff;
+text-align: center;
+
+rgba(46, 47, 66, 0.7)
