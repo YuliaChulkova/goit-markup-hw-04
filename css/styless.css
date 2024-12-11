@@ -110,7 +110,10 @@ body {
 
 
 }
-         .header-list-item:nth-child(3) .header-link::after  {
+.header-list-item:first-child .header-link{
+  color: #404bbf;}
+
+  .header-list-item:nth-child(3) .header-link::after  {
       bottom: -5px;
     }
 
@@ -219,6 +222,22 @@ background-image: linear-gradient(to bottom,
 .about-item {
   width: 264px;
 }
+
+ .icon-container-about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #8e8f99;
+  border-radius: 4px;
+  max-width: 264px;
+  height: 112px;
+  padding: 24px 100px;
+  margin-bottom: 8px;
+  background-color: #f4f4fd;
+
+
+}
+
 .about-title {
   margin-bottom: 8px;
   font-weight: 500;

@@ -61,3 +61,17 @@ color: #fff;
 text-align: center;
 
 rgba(46, 47, 66, 0.7)
+
+<!-- иконка сверху параграфа -->
+
+Блочная модель
+Копировать
+border: 1px solid #8e8f99;
+border-radius: 4px;
+width: 264px;
+height: 112px;
+Эффекты
+Копировать
+background: #f4f4fd;
+
+#
