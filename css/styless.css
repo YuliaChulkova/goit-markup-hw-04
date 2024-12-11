@@ -315,8 +315,8 @@ background-image: linear-gradient(to bottom,
   width: 232px;
   height: 40px;
   gap: 24px;
-
-  border-radius: 50% 50%;
+  margin: 0 auto;
+  padding-bottom: 32px;
 }
 .team-icons-item {
   width: 40px;
