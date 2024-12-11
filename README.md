@@ -75,3 +75,17 @@ height: 112px;
 background: #f4f4fd;
 
 #
+
+<div class="icon-container-about"><svg class="about-icons" width="64" height="64">
+              <use href="./images/icons-sec1.svg#icon-astronaut-1"></use>
+            </svg></div>
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: row;
+gap: 24px;
+Блочная модель
+Копировать
+width: 232px;
+height: 40px;
+fill="#f4f4fd"

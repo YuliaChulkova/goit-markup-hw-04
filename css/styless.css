@@ -300,7 +300,33 @@ background-image: linear-gradient(to bottom,
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
+  margin-bottom: 8px;
 }
+
+.team-icons {
+ display: block; 
+}
+
+.team-icons-list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  width: 232px;
+  height: 40px;
+  gap: 24px;
+
+  border-radius: 50% 50%;
+}
+.team-icons-item {
+  width: 40px;
+  height: 40px;
+  padding-top: 12px;
+  padding-right: 11,98px;
+  padding-bottom: 12px;
+  padding: 12,03px;
+  border-radius: 50% 50%;
+  background-color: #4d5ae5;}
 
 .portfolio {padding: 120px 0;
 }
