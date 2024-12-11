@@ -222,7 +222,7 @@ background-image: linear-gradient(to bottom,
 .about-item {
   width: 264px;
 }
-
+/* 
  .icon-container-about {
   display: flex;
   justify-content: center;
@@ -233,7 +233,7 @@ background-image: linear-gradient(to bottom,
   height: 112px;
   padding: 24px 100px;
   margin-bottom: 8px;
-  background-color: #f4f4fd;
+  background-color: #f4f4fd; */
 
 
 }
