@@ -466,6 +466,7 @@ background-color: #404bbf;
 .footer-container {
   display: flex;
   text-align: left;
+  align-items: baseline;
 }
 .footer-logo {
 display: block;
