@@ -252,10 +252,7 @@ background-image: linear-gradient(to bottom,
 }
 .team {
   background: #f4f4fd;
-  padding: 120px 0;
-  /* box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
-    0px 1px 1px rgba(46, 47, 66, 0.16),
-    0px 2px 1px rgba(46, 47, 66, 0.08);} */
+  padding: 120px 0;}
     
 .team-container {
  
@@ -310,7 +307,6 @@ background-image: linear-gradient(to bottom,
 }
 
 .team-icons {
- /* display: block;  */
 }
 
 .team-icons-list {
@@ -324,14 +320,11 @@ background-image: linear-gradient(to bottom,
   margin: 0 auto; 
 }
 .team-icons-item {
-   
-    margin: 0 auto;
+  margin: 0 auto;
   width: 40px;
   height: 40px;
   padding-top: 12px;
- 
   padding-bottom: 12px;
-
   border-radius: 50% 50%;
   background-color: #4d5ae5;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
@@ -339,7 +332,7 @@ background-image: linear-gradient(to bottom,
 
 .team-icons-item:hover,
 .team-icons-item:focus {
- fill: green;
+background-color: #404bbf;
 
 }
 
