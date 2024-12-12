@@ -403,7 +403,7 @@ background-color: #404bbf;
     margin: 0 auto;
     transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.portfolio-overlay .overlay-text{ 
+.portfolio-overlay { 
   position: absolute;
   transform: translateY(100%);
   top: 0;
@@ -415,8 +415,8 @@ background-color: #404bbf;
   transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
   overflow: hidden;
 }
-.portfolio-item:hover .overlay-text ,
-.portfolio-item:focus .overlay-text {
+.portfolio-item:hover .portfolio-overlay,
+.portfolio-item:focus .portfolio-overlay {
   transform: translateY(0%);
   
 }
@@ -430,7 +430,8 @@ background-color: #404bbf;
   letter-spacing: 0.02em;
   color: #f4f4fd;
   overflow: auto;
-  
+  height: 100%;
+
 }
 .container-port-list {
   display: block;
