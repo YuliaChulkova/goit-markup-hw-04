@@ -89,3 +89,76 @@ gap: 24px;
 width: 232px;
 height: 40px;
 fill="#f4f4fd"
+
+   <!-- <div class="team-icons">
+              <ul class="team-icons-list">
+                <li class="team-icons-item">
+                  <svg class="about-icons-social" width="16" height="16">
+                    <use href="./images/icons-sec2.svg#icon-instagram-2"></use>
+                  </svg>
+                </li>
+                <li class="team-icons-item"><svg class="about-icons-social" width="16" height="16">
+                  <use href="./images/icons-sec2.svg#icon-twitter-1"></use>
+                </svg></li>
+                <li class="team-icons-item"><svg class="about-icons-social" width="16" height="16">
+                  <use href="./images/icons-sec2.svg#icon-facebook-1"></use>
+                </svg></li>
+                <li class="team-icons-item"><svg class="about-icons-social" width="16" height="16">
+                  <use href="./images/icons-sec2.svg#icon-linkedin-1"></use>
+                </svg></li>
+              </ul>
+            </div> -->
+  <!-- <div class="team-icons">
+              <ul class="team-icons-list">
+                <li class="team-icons-item">
+                  <svg class="about-icons-social" width="16" height="16">
+                    <use href="./images/icons-sec2.svg#icon-instagram-2"></use>
+                  </svg>
+                </li>
+                <li class="team-icons-item"><svg class="about-icons-social" width="16" height="16">
+                  <use href="./images/icons-sec2.svg#icon-twitter-1"></use>
+                </svg></li>
+                <li class="team-icons-item"><svg class="about-icons-social" width="16" height="16">
+                  <use href="./images/icons-sec2.svg#icon-facebook-1"></use>
+                </svg></li>
+                <li class="team-icons-item"><svg class="about-icons-social" width="16" height="16">
+                  <use href="./images/icons-sec2.svg#icon-linkedin-1"></use>
+                </svg></li>
+              </ul>
+            </div> -->
+ <!-- <div class="team-icons">
+              <ul class="team-icons-list">
+                <li class="team-icons-item">
+                  <svg class="about-icons-social" width="16" height="16">
+                    <use href="./images/icons-sec2.svg#icon-instagram-2"></use>
+                  </svg>
+                </li>
+                <li class="team-icons-item"><svg class="about-icons-social" width="16" height="16">
+                    <use href="./images/icons-sec2.svg#icon-twitter-1"></use>
+                  </svg></li>
+                <li class="team-icons-item"><svg class="about-icons-social" width="16" height="16">
+                    <use href="./images/icons-sec2.svg#icon-facebook-1"></use>
+                  </svg></li>
+                <li class="team-icons-item"><svg class="about-icons-social" width="16" height="16">
+                    <use href="./images/icons-sec2.svg#icon-linkedin-1"></use>
+                  </svg></li>
+              </ul>
+            </div> -->
+ <!-- <div class="team-icons">
+               <ul class="team-icons-list">
+                <li class="team-icons-item">
+                  <svg class="about-icons-social" width="16" height="16">
+                    <use href="./images/icons-sec2.svg#icon-instagram-2"></use>
+                  </svg>
+                </li>
+                <li class="team-icons-item"><svg class="about-icons-social" width="16" height="16">
+                    <use href="./images/icons-sec2.svg#icon-twitter-1"></use>
+                  </svg></li>
+                <li class="team-icons-item"><svg class="about-icons-social" width="16" height="16">
+                    <use href="./images/icons-sec2.svg#icon-facebook-1"></use>
+                  </svg></li>
+                <li class="team-icons-item"><svg class="about-icons-social" width="16" height="16">
+                    <use href="./images/icons-sec2.svg#icon-linkedin-1"></use>
+                  </svg></li>
+              </ul>
+            </div>  -->
