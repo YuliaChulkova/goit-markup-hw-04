@@ -162,3 +162,101 @@ fill="#f4f4fd"
                   </svg></li>
               </ul>
             </div>  -->
+
+.portfolio {padding: 120px 0;
+}
+.portfolio-main-title {
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+text-transform: capitalize;
+margin-bottom: 72px;
+margin-right: auto;
+margin-left: auto;
+}
+.portfolio-list {display: flex;
+flex-wrap: wrap;
+column-gap: 24px;
+row-gap: 48px;
+margin: 0 auto;
+}
+.portfolio-item {
+position: relative;
+overflow: hidden;
+background: #fff;
+border: 1px solid #e7e9fc;
+align-items: center;
+text-align: center;
+width: calc((100% - 48px) / 3);
+border-top: none;
+transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.portfolio-item:hover,
+.portfolio-item:focus {
+box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
+0px 1px 1px rgba(46, 47, 66, 0.16),
+0px 2px 1px rgba(46, 47, 66, 0.08);
+}
+.portfolio-img {
+display: block;
+max-width: 100%;
+height: auto;
+margin: 0 auto;
+transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.portfolio-overlay {
+position: absolute;
+transform: translateY(100%);
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+transform: translateY(100%);
+background-color: #4d5ae5;
+transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+overflow: hidden;
+}
+.portfolio-item:hover .portfolio-overlay,
+.portfolio-item:focus .portfolio-overlay {
+transform: translateY(0%);
+
+}
+.overlay-text {
+padding: 40px 32px;
+font-family: "Roboto", sans-serif;
+text-align: left;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #f4f4fd;
+overflow: auto;
+height: 100%;
+
+}
+.container-port-list {
+display: block;
+border-bottom: 1px solid #e7e9fc;
+border-left: 1px solid #e7e9fc;
+border-right: 1px solid #e7e9fc;
+padding: 32px 16px;
+margin-right: auto;
+text-align: left;
+}
+.portfolio-title {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
+margin-bottom: 8px;
+
+}
+.portfolio-text {
+line-height: 1.5;
+letter-spacing: 0.02em;
+
+}
