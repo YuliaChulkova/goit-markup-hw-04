@@ -291,7 +291,7 @@ background-image: linear-gradient(to bottom,
   height: auto;
   margin: 0 auto;
 }
-.team-list-cotainer {
+.team-icons-cotainer {
   display: block;
   padding: 32px 0;
   margin-right: auto;
@@ -411,7 +411,7 @@ background-color: #404bbf;
 .port-wrap .portfolio-overlay {
 width: 360px;
   height: 300px;}
-  
+
 .portfolio-overlay .overlay-text{ 
   position: absolute;
   overflow: hidden;
